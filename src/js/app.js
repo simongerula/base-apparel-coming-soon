@@ -25,7 +25,7 @@ document.querySelector('.subscribe-form').addEventListener('submit', function(e)
     else {
         html.innerHTML = `
         <div class="form-sended">
-            <img src="/src/images/logo.svg" alt="">
+            <img src="src/images/logo.svg" alt="">
             <h1> Muchas gracias por subscribirte </h1>
         </div> `
     }
