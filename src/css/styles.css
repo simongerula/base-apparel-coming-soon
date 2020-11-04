@@ -43,7 +43,7 @@ body {
     font-weight: 300;
 }
 .subscribe-form {
-    margin: 8%;
+    margin: 8% 0;
     position: relative;
 }
 .input-email {
@@ -80,7 +80,7 @@ body {
 .error-type {
     text-align: left;
     color: rgb(249, 98, 98);
-    padding: 5px 0 0 25px;
+    padding: 8px 0 0 25px;
     font-size: 14px;
     display: none;
 }
