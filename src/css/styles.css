@@ -54,6 +54,7 @@ body {
     color: rgb(206, 151, 151);
     outline: none;
     font-size: 16px;
+    height: 40px;
 }
 .input-email::placeholder {
     color: rgb(206, 151, 151);
@@ -65,7 +66,7 @@ body {
     position: absolute;
     right: 0;
     top: 0;
-    height: 39px;
+    height: 40px;
     width: 70px;
     border-radius: 20px;
     border: none;
